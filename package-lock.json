@@ -1,0 +1,11 @@
+{
+  "name": "buscaminas",
+  "version": "1.0.0",
+  "description": "¡Bienvenido al juego de **buscaminas**! Este juego clásico te desafía a descubrir todas las casillas que no contienen bombas sin detonar ninguna.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
